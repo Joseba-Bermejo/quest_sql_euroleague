@@ -41,3 +41,7 @@ The dataset was extracted from the Euroleague API and includes statistics for al
 ## Final conclusions
 
 The analysis suggests that Euroleague players who take a higher proportion of three-point shots tend to be slightly less efficient overall, indicating a trade-off between volume and shot quality over 25 years of Euroleague history. Players with better assist-to-turnover ratios generally receive more playing time, highlighting the value coaches place on ball security. Additionally, while the correlation is modest, higher efficiency metrics like TS% and AST/TO ratio are linked to longer careers, suggesting that consistent, smart play contributes to player longevity. These findings offer a statistical foundation for deeper scouting, coaching decisions, or comparisons with other leagues.
+
+## Important Links
+- [Presentation Slides](https://docs.google.com/presentation/d/1IyC2xoo3JMiBTexF-Ji1uV2M6XSMy_bcVR_vW9Mm2JQ/edit)
+- [G-Sheet visualizations](https://docs.google.com/spreadsheets/d/1PI5OQFJPRhvkV22MYHsw6GNb7I14fp_MzWvo02tDCdk/edit)
