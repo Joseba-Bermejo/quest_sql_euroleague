@@ -32,8 +32,8 @@ The dataset was extracted from the Euroleague API and includes statistics for al
 
 ## Methodology
 
-- Data extraction: Used the Euroleague API to retrieve player-level data.
-- Data cleaning:
+- Data extraction
+- Data cleaning
 - EDA
 - Visualizations
 - Hypothesis testing
